@@ -18,5 +18,5 @@
 <p align="center">
 <a href="https://twitter.com/silasdurans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="silasduranstwitter" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/silasdurans" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="silasduranslinkedin" height="20" width="20" /></a>
-<a href="https://instagram.com/duransdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="silasduransinstagram" height="20" width="20" /></a>
+<a href="https://instagram.com/duranssilas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="silasduransinstagram" height="20" width="20" /></a>
 </p>
