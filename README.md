@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Silas Durans! 👋</h1>
 
 <p align="center">
-  Desenvolvedor | Estudante de Ciência e Tecnologia
+  Desenvolvedor | Estudante de Ciência e Tecnologia na UFMA
 </p>
 
 <div align="center">
