@@ -48,13 +48,13 @@
       <tr>
         <td><strong><br>Back-End<br><br></strong></td>
         <td>
-          <img src="https://img.shields.io/badge/-python-777BB4?style=flat-square&logo=python&logoColor=white" alt="python" />
+          <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" />
         </td>
       </tr>
       <tr>
-        <td><strong><br>Banco de Dados<br><br></strong></td>
+        <td><strong><br>Game Dev<br><br></strong></td>
         <td>
-          <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="godot" />
         </td>
       </tr>
       <tr>
