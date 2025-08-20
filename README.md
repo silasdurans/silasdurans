@@ -29,7 +29,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=silasdurans&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=silasdurans&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/3t7ubelfhc27dq0fi23jfhais">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3t7ubelfhc27dq0fi23jfhais&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=3t7ubelfhc27dq0fi23jfhais&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
