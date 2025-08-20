@@ -30,7 +30,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=silasdurans&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silasdurans&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="54" alt="languages graph"  />
 </div>
 
 ###
@@ -40,10 +39,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silasdurans/silasdurans/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/silasdurans/silasdurans/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<p align="left">Algumas músicas que eu gosto de ouvir</p>
 
 ###
 
