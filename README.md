@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🐛 Estou resolvendo bugs desde 2024<br>🎓 Estudante de Ciência e Tecnologia na UFMA, com foco em Engenharia da Computação<br>💻 Interesse em desenvolvimento front-end, design de interfaces e inovação em tecnologia<br>🚀 Exploro desde HTML, CSS e JavaScript até frameworks como React e ferramentas modernas<br>🌱 Acredito que a tecnologia deve ser acessível e inclusiva, buscando sempre gerar impacto positivo</p>
+<p align="left">🐛 Estou resolvendo bugs desde 2020<br>🎓 Estudante de Ciência e Tecnologia na UFMA, com foco em Engenharia da Computação<br>💻 Interesse em desenvolvimento front-end, design de interfaces e inovação em tecnologia<br>🚀 Exploro desde HTML, CSS e JavaScript até frameworks como React e ferramentas modernas<br>🌱 Acredito que a tecnologia deve ser acessível e inclusiva, buscando sempre gerar impacto positivo</p>
 
 ###
 
@@ -10,8 +10,12 @@
   <a href="https://www.linkedin.com/in/silasdurans/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <a href="https://dev.to/silasdurans" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/31310737/silas-durans" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
@@ -52,6 +56,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
 </div>
 
 ###
