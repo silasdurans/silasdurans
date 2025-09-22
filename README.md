@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🐛 Estou resolvendo bugs desde 2020<br>🎓 Estudante de Ciência e Tecnologia na UFMA, com foco em Engenharia da Computação<br>💻 Interesse em desenvolvimento front-end, design de interfaces e inovação em tecnologia<br>🚀 Exploro desde HTML, CSS e JavaScript até frameworks como React e ferramentas modernas<br>🌱 Acredito que a tecnologia deve ser acessível e inclusiva, buscando sempre gerar impacto positivo</p>
+<p align="left">🐛 Estou resolvendo bugs desde 2020<br>🎓 Estudante de Ciência e Tecnologia na UFMA, com foco em Engenharia da Computação<br>💻 Interesse em desenvolvimento front-end, design de interfaces e inovação em tecnologia<br>🌱 Acredito que a tecnologia deve ser acessível e inclusiva, buscando sempre gerar impacto positivo</p>
 
 ###
 
