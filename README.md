@@ -65,8 +65,9 @@
 #
 
 <div align="center">
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdurans&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silasdurans&theme=dracula"/>
+  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdurans&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>
+  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silasdurans&theme=dracula"/>
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer"/>
