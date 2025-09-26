@@ -1,10 +1,40 @@
-<h1 align="center">👋Olá, sou Silas Durans</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&customColorList=#24F756FF"/>
 
-###
+# 🧙🏼‍♂️ Silas Durans
 
-<p align="left">🐛 Estou resolvendo bugs desde 2020<br>🎓 Estudante de Ciência e Tecnologia na UFMA, com foco em Engenharia da Computação<br>💻 Interesse em desenvolvimento front-end, design de interfaces e inovação em tecnologia<br>🌱 Acredito que a tecnologia deve ser acessível e inclusiva, buscando sempre gerar impacto positivo</p>
+  <b>`Computer Engineering and Game Developer`</b>
 
-###
+<p align="left">I’m Silas Durans, an undergraduate student in the Interdisciplinary Bachelor of Science and Technology at UFMA, focusing on Computer Engineering. My academic path is directed towards understanding algorithms and data structures, since I believe they are essential for problem-solving and building efficient systems. I have knowledge in JavaScript, Python, and C/C++, exploring both web development and computational logic. I’m constantly learning new technologies and seeking to apply them in projects that generate positive impact, guided by the belief that technology should be accessible and inclusive for everyone.</p>
+<hr>
+
+### 🧰 Languages and Tools
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<br />
+
+#
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+<br>
+
+<div align="center">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/silasdurans/" target="_blank">
@@ -17,36 +47,26 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=silasdurans&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
+  
 </div>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-
-</div>
-
-###
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/silasdurans/silasdurans/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/silasdurans/silasdurans/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/silasdurans/silasdurans/output/pacman-contribution-graph.svg">
 </picture>
+
+### 📊 Stats
+
+#
+
+<div align="center">
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdurans&layout=compact&font=Iosevka&langs_count=16&theme=dracula"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=silasdurans&theme=dracula"/>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer"/>
