@@ -2,7 +2,7 @@
 
 # 🧙🏼‍♂️ Silas Durans
 
-  <b>`Computer Engineering and Game Developer`</b>
+  <b>`Computer Engineering & Game Developer`</b>
 
 <p align="left">I’m Silas Durans, an undergraduate student in the Interdisciplinary Bachelor of Science and Technology at UFMA, focusing on Computer Engineering. My academic path is directed towards understanding algorithms and data structures, since I believe they are essential for problem-solving and building efficient systems. I have knowledge in JavaScript, Python, and C/C++, exploring both web development and computational logic. I’m constantly learning new technologies and seeking to apply them in projects that generate positive impact, guided by the belief that technology should be accessible and inclusive for everyone.</p>
 <hr>
