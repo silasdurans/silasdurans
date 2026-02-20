@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/silasdurans/galaxy-profile@main/assets/generated/galaxy-header.svg" width="100%" />
+</p>
 
-<!--
-**silasdurans/silasdurans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/silasdurans/galaxy-profile@main/assets/generated/stats-card.svg" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/silasdurans/galaxy-profile@main/assets/generated/tech-stack.svg" width="100%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/silasdurans/galaxy-profile@main/assets/generated/projects-constellation.svg" width="100%" />
+</p>
