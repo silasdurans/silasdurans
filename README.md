@@ -118,23 +118,6 @@ uptime: 99.8%
 
 ---
 
-### 🟡 `[ secure-api ]` — v0.8.2
-> API backend com autenticação JWT, rate limiting e proteção contra SQLi, XSS e brute force.
-> Base reutilizável para projetos internos da startup.
-
-```bash
-$ npm run test -- --coverage
-Tests: 24 passed | Coverage: 87.3% | Auth module: 100%
-```
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
----
-
 ### 🔵 `[ UFMA ]` — Engenharia de Computação
 > Projetos e exercícios da graduação em Eng. de Computação na UFMA.
 > Algoritmos, estruturas de dados e programação de sistemas em C.
@@ -154,13 +137,6 @@ Tests: 24 passed | Coverage: 87.3% | Auth module: 100%
 
 ## `$ gh api /users/silasdurans/stats`
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=silasdurans&show_icons=true&theme=dark&bg_color=0a0c0f&title_color=00FF9D&icon_color=00d4ff&text_color=c8d6e5&border_color=1e2530&hide_border=false&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdurans&layout=compact&theme=dark&bg_color=0a0c0f&title_color=00FF9D&text_color=c8d6e5&border_color=1e2530&hide_border=false" />
-
-</div>
 
 <div align="center">
 
