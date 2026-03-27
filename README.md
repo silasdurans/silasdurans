@@ -9,17 +9,16 @@
  ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+CEUMA;Game+Development+%7C+InfoSec;Backend+%26+Networks;Director+%40+Metasense+Startup;Always+learning+%E2%88%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+UFMA;Game+Development+%7C+InfoSec;Member+%40+Metasense+Startup;Always+learning+%E2%88%9E)](https://git.io/typing-svg)
 
 <br>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-duransdev.vercel.app-00FF9D?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0c0f)](https://duransdev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-silasdurans-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0c0f)](https://linkedin.com/in/silasdurans)
-[![GitHub](https://img.shields.io/badge/GitHub-silasdurans-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0c0f)](https://github.com/silasdurans)
-[![Email](https://img.shields.io/badge/email-silasdurans%40hotmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0c0f)](mailto:silasdurans@hotmail.com)
+[![Email](https://img.shields.io/badge/email-hotmail-D44638?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=0a0c0f)](mailto:silasdurans@hotmail.com)
 
-![Location](https://img.shields.io/badge/📍_São_Luís,_MA-Brasil-00FF9D?style=flat-square&labelColor=0a0c0f)
-![Status](https://img.shields.io/badge/status-aberto_a_oportunidades-00FF9D?style=flat-square&logo=circle&logoColor=00FF9D&labelColor=0a0c0f)
+![Status](https://img.shields.io/badge/●_aberto_a_oportunidades-00FF9D?style=flat-square&labelColor=0a0c0f)
+![Location](https://img.shields.io/badge/📍_São_Luís,_MA_—_Brasil-555?style=flat-square&labelColor=0a0c0f)
 
 </div>
 
@@ -35,16 +34,17 @@ como são construídos, como falham e como podem ser protegidos.
 // guiado por aprendizado contínuo e aplicação prática desde o início.
 ```
 
-| 🔭 Trabalhando em | **netwatch** — monitor de tráfego de rede com detecção de anomalias |
+| | |
 |---|---|
-| 🌱 Aprendendo | Segurança de Redes, Arquitetura Backend, Protocolos |
-| 🏢 Empresa | **Metasense** — Startup de Tecnologia |
-| 🎮 Hobby | Game Development |
+| 🎓 Graduação | Engenharia de Computação — UFMA |
+| 🏢 Empresa | Metasense — Startup de Tecnologia |
+| 🌱 Aprendendo | Segurança da Informação, Redes & Protocolos |
+| 🎮 Interesse | Game Development |
 | ⚡ Fun fact | Tenho `∞` curiosidade e isso não para de crescer |
 
 ---
 
-## `$ ./skills.sh --scan --verbose`
+## `$ ./skills.sh --scan`
 
 **Redes & Protocolos**
 `████████████████████░░░░` 85%
@@ -82,13 +82,8 @@ como são construídos, como falham e como podem ser protegidos.
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-#### Backend & Infra
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+#### Tools & Ambiente
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -100,43 +95,42 @@ como são construídos, como falham e como podem ser protegidos.
 
 ## `$ ls -la ~/projects`
 
-### 🔴 `[ netwatch ]` — Monitor de Rede
-> Monitor de tráfego em tempo real com detecção de anomalias e alertas de segurança.
-> Captura pacotes, analisa padrões e sinaliza comportamentos suspeitos via dashboard CLI.
+### [`UFMA`](https://github.com/silasdurans/UFMA) — Engenharia de Computação
 
-```bash
-$ python netwatch.py --stats
-packets captured: 148,302
-anomalies flagged: 7
-uptime: 99.8%
-```
+Repositório com projetos e exercícios da graduação em Engenharia de Computação na UFMA. Cobre as disciplinas de Fundamentos da Computação (`FUNDCOMP`) e Linguagem de Programação para Engenharia Elétrica (`LPEE`), com foco em algoritmos e programação de sistemas em C.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scapy](https://img.shields.io/badge/Scapy-00FF9D?style=flat-square&logoColor=black)
-![Socket](https://img.shields.io/badge/Socket-333?style=flat-square)
-![CLI](https://img.shields.io/badge/CLI-000?style=flat-square&logo=gnometerminal&logoColor=white)
-
----
-
-### 🔵 `[ UFMA ]` — Engenharia de Computação
-> Projetos e exercícios da graduação em Eng. de Computação na UFMA.
-> Algoritmos, estruturas de dados e programação de sistemas em C.
-
-[![Repo](https://img.shields.io/badge/ver_repositório-0a0c0f?style=flat-square&logo=github&logoColor=white)](https://github.com/silasdurans/UFMA)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-### 🟠 `[ frangoassado-bot ]`
-> Bot em JavaScript com automação de tarefas e integração com APIs externas.
+### [`frangoassado-bot`](https://github.com/silasdurans/frangoassado-bot) — Bot em JavaScript
 
-[![Repo](https://img.shields.io/badge/ver_repositório-0a0c0f?style=flat-square&logo=github&logoColor=white)](https://github.com/silasdurans/frangoassado-bot)
+Bot desenvolvido em Node.js. Projeto de automação explorando integração com APIs externas e lógica de resposta automatizada.
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+### [`portfolio`](https://github.com/silasdurans/portfolio) — Portfólio pessoal
+
+Portfólio com estética terminal/hacker, desenvolvido em HTML. Disponível em [duransdev.vercel.app](https://duransdev.vercel.app).
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
 ## `$ gh api /users/silasdurans/stats`
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=silasdurans&show_icons=true&theme=dark&bg_color=0a0c0f&title_color=00FF9D&icon_color=00d4ff&text_color=c8d6e5&border_color=1e2530&count_private=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdurans&layout=compact&theme=dark&bg_color=0a0c0f&title_color=00FF9D&text_color=c8d6e5&border_color=1e2530" />
+
+</div>
 
 <div align="center">
 
@@ -146,7 +140,7 @@ uptime: 99.8%
 
 ---
 
-## `$ cat contact.json | python -m json.tool`
+## `$ cat contact.json`
 
 ```json
 {
@@ -159,7 +153,7 @@ uptime: 99.8%
 }
 ```
 
-> 💬 *Respondo rápido. Bora construir algo.*
+> *Respondo rápido. Bora construir algo.*
 
 ---
 
