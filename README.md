@@ -9,7 +9,7 @@
  ╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+UFMA;Game+Development+%7C+InfoSec;Member+%40+Metasense+Startup;Always+learning+%E2%88%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+CEUMA;Game+Development+%7C+InfoSec;Member+%40+Metasense+Startup;Always+learning+%E2%88%9E)](https://git.io/typing-svg)
 
 <br>
 
@@ -36,7 +36,7 @@ como são construídos, como falham e como podem ser protegidos.
 
 | | |
 |---|---|
-| 🎓 Graduação | Engenharia de Computação — UFMA |
+| 🎓 Graduação | Engenharia de Computação — CEUMA |
 | 🏢 Empresa | Metasense — Startup de Tecnologia |
 | 🌱 Aprendendo | Segurança da Informação, Redes & Protocolos |
 | 🎮 Interesse | Game Development |
