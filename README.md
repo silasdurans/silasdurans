@@ -93,35 +93,6 @@ como são construídos, como falham e como podem ser protegidos.
 
 ---
 
-## `$ ls -la ~/projects`
-
-### [`UFMA`](https://github.com/silasdurans/UFMA) — Engenharia de Computação
-
-Repositório com projetos e exercícios da graduação em Engenharia de Computação na UFMA. Cobre as disciplinas de Fundamentos da Computação (`FUNDCOMP`) e Linguagem de Programação para Engenharia Elétrica (`LPEE`), com foco em algoritmos e programação de sistemas em C.
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### [`frangoassado-bot`](https://github.com/silasdurans/frangoassado-bot) — Bot em JavaScript
-
-Bot desenvolvido em Node.js. Projeto de automação explorando integração com APIs externas e lógica de resposta automatizada.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
----
-
-### [`portfolio`](https://github.com/silasdurans/portfolio) — Portfólio pessoal
-
-Portfólio com estética terminal/hacker, desenvolvido em HTML. Disponível em [duransdev.vercel.app](https://duransdev.vercel.app).
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-
----
-
 ## `$ gh api /users/silasdurans/stats`
 
 <div align="center">
