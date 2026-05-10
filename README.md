@@ -54,35 +54,7 @@ metodologia: Scrum · levantamento de requisitos · testes com usuários · ISO 
 resultado: ~65% redução em tarefas manuais · ~55% redução no tempo de busca
 ```
 
-[![Repo](https://img.shields.io/badge/ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0c0f)](https://github.com/silasdurans/PlataformadeImoveis.git)
-
----
-
-## `$ ./skills.sh --scan`
-
-**Backend & APIs**
-`████████████████████░░░░` 85%
-
-**Node.js & TypeScript**
-`███████████████████░░░░░` 80%
-
-**Segurança da Informação**
-`██████████████████░░░░░░` 75%
-
-**Redes & Protocolos**
-`██████████████████░░░░░░` 75%
-
-**Python**
-`█████████████████░░░░░░░` 70%
-
-**Linux / Sistemas**
-`█████████████████░░░░░░░` 70%
-
-**Banco de Dados (SQL)**
-`████████████████░░░░░░░░` 65%
-
-**Game Development**
-`█████████████░░░░░░░░░░░` 55%
+[![Repo](https://img.shields.io/badge/ver_repositório-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0c0f)](https://github.com/silasdurans/Plataforma-Locacao.git)
 
 ---
 
@@ -119,14 +91,6 @@ resultado: ~65% redução em tarefas manuais · ~55% redução no tempo de busca
 ---
 
 ## `$ gh api /users/silasdurans/stats`
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=silasdurans&show_icons=true&theme=dark&bg_color=0a0c0f&title_color=00FF9D&icon_color=00d4ff&text_color=c8d6e5&border_color=1e2530&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasdurans&layout=compact&theme=dark&bg_color=0a0c0f&title_color=00FF9D&text_color=c8d6e5&border_color=1e2530" />
-
-</div>
 
 <div align="center">
 
