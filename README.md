@@ -1,9 +1,9 @@
-### Olá, eu sou o Silas 👋
+### Hi, I'm Silas 👋
 
-CTO @ metasense · Desenvolvimento de software (C++, Python, TypeScript) e Cibersegurança (blue team, pentest, análise de ameaças)
+CTO @ metasense · Software development (C++, Python, TypeScript) and Cybersecurity (blue team, pentesting, threat analysis)
 
-- Lidero a arquitetura e o backend dos sistemas da metasense
-- Liderei a arquitetura de infraestrutura em nuvem (AWS: IAM, RDS, S3) de um produto que lida com dados sensíveis
-- Estudando Ciência da Computação na UFMA, com foco em blue team, detecção de ameaças e resposta a incidentes
+- Lead the architecture and backend of metasense's systems
+- Led the cloud infrastructure architecture (AWS: IAM, RDS, S3) of a product handling sensitive data
+- Studying Computer Science at UFMA, focused on blue team, threat detection, and incident response
 
-📫 [LinkedIn](https://www.linkedin.com/in/silasdurans) · ✉️ silas@themetasense.com
+📫 [LinkedIn](https://www.linkedin.com/in/silasdurans) · ✉️ silasdurans@hotmail.com
