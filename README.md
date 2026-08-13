@@ -1,6 +1,6 @@
 ### Hi, I'm Silas 👋
 
-CTO @ metasense · Software development (C++, Python, TypeScript) and Cybersecurity (blue team, pentesting, threat analysis)
+CTO @ metasense · Software development (C++, Python, TypeScript) and Cybersecurity
 
 - Lead the architecture and backend of metasense's systems
 - Led the cloud infrastructure architecture (AWS: IAM, RDS, S3) of a product handling sensitive data
