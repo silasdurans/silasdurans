@@ -1,25 +1,26 @@
-<h1 align="center">Olá, eu sou Silas 👋</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/silasdurans/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="http://lattes.cnpq.br/7023858860299108">
-    <img src="https://img.shields.io/badge/Lattes-004884?style=flat-square&logo=readthedocs&logoColor=white" alt="Lattes"/>
-  </a>
-  <a href="https://orcid.org/0009-0007-5577-5830">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
-  </a>
-  <a href="mailto:silasdurans@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>
-</p>
-
+<a href="https://github.com/silasdurans#gh-light-mode-only">
+  <img src="./assets/profile-light.svg?#gh-light-mode-only">
+</a>
+<a href="https://github.com/silasdurans#gh-dark-mode-only">
+  <img src="./assets/profile-dark.svg?#gh-dark-mode-only">
+</a>
 <br>
+<br>
+[![Profile Views](https://komarev.com/ghpvc/?username=silasdurans&style=flat-square&color=blue)](https://github.com/silasdurans)
+<picture>
+  <source
+    srcset="https://github-readme-stats-ten-beta-45.vercel.app/api?username=silasdurans&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark&disable_animations=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-ten-beta-45.vercel.app/api?username=silasdurans&include_all_commits=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&disable_animations=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-ten-beta-45.vercel.app/api?username=silasdurans&include_all_commits=true&show_icons=true&theme=transparent&hide_title=true&hide_border=true&disable_animations=true" align="right" />
+</picture>
 
-**Sobre mim**
-
-- CTO & Diretor de Engenharia de Software em uma startup de healthtech/deeptech
+**Eu sou...**
+- CTO e Diretor de Engenharia de Software em uma startup de healthtech/deeptech
 - Estudante de Ciência da Computação na [UFMA](https://portalpadrao.ufma.br/) (Universidade Federal do Maranhão)
 - Interessado em Cloud/DevOps (AWS), Cibersegurança e Bug Bounty
 - Sempre construindo, quebrando e aprendendo algo novo
@@ -31,36 +32,7 @@
 [LinkedIn](https://www.linkedin.com/in/silasdurans/) ·
 [Lattes](http://lattes.cnpq.br/7023858860299108) ·
 [ORCID](https://orcid.org/0009-0007-5577-5830) ·
-[E-mail](mailto:silasdurans@hotmail.com)
-
-<br>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=silasdurans&show_icons=true&hide_title=true&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=silasdurans&show_icons=true&hide_title=true&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=silasdurans&show_icons=true&hide_title=true&hide_border=true&theme=default" align="right" alt="GitHub stats" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=silasdurans&hide_border=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=silasdurans&hide_border=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silasdurans&hide_border=true&theme=default" alt="GitHub streak" />
-</picture>
-
-<br>
-<br>
+[E-Mail](mailto:silasdurans@hotmail.com)
 
 **Minhas atividades no GitHub**
 
