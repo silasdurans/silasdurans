@@ -6,7 +6,9 @@
 </a>
 <br>
 <br>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=silasdurans&style=flat-square&color=blue)](https://github.com/silasdurans)
+
 <picture>
   <source
     srcset="https://github-readme-stats-ten-beta-45.vercel.app/api?username=silasdurans&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true&theme=dark&disable_animations=true"
