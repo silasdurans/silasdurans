@@ -8,6 +8,7 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=silasdurans&style=flat-square&color=blue)](https://github.com/silasdurans)
+[![Last Commit](https://img.shields.io/github/last-commit/silasdurans/silasdurans?style=flat-square&color=blue)](https://github.com/silasdurans/silasdurans/commits)
 
 <picture>
   <source
@@ -25,7 +26,6 @@
 - CTO e Diretor de Engenharia de Software em uma startup de healthtech/deeptech
 - Estudante de Ciência da Computação na [UFMA](https://portalpadrao.ufma.br/) (Universidade Federal do Maranhão)
 - Interessado em Cloud/DevOps (AWS), Cibersegurança e Bug Bounty
-- Sempre construindo, quebrando e aprendendo algo novo
 
 <br>
 
